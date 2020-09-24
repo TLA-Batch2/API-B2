@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "_id": "5f5ef8e68a9e7600179c537f",
+      "id": 20,
+      "name": "Selenium course",
+      "duration": "6 months",
+      "__v": 0
+    },
+    {
+      "_id": "5f5efb04a9ea0c0017bfe830",
+      "id": 20,
+      "name": "Java course",
+      "duration": "3 months",
+      "__v": 0
+    },
+    {
+      "_id": "5f623b8e897b3200176c8d1a",
+      "name": "Java",
+      "duration": "3 months",
+      "__v": 0
+    },
+    {
+      "_id": "5f654487a3bc89001772403e",
+      "duration": "1 day",
+      "name": "Apache POI",
+      "__v": 0
+    },
+    {
+      "_id": "5f6547bea3bc89001772403f",
+      "duration": "2 day",
+      "name": "CSS selectors",
+      "__v": 0
+    },
+    {
+      "_id": "5f6547eda3bc890017724040",
+      "duration": "2 days",
+      "name": "Xpath selectors",
+      "__v": 0
+    },
+    {
+      "_id": "5f654c67a3bc890017724041",
+      "duration": "2 hours",
+      "name": "Multiple windows",
+      "__v": 0
+    },
+    {
+      "_id": "5f6579b03db3210017cceecd",
+      "name": "Multiple windows",
+      "duration": "2 hours",
+      "__v": 0
+    },
+    {
+      "_id": "5f66289cff17240017e4abe3",
+      "name": "API",
+      "duration": "2 weeks",
+      "__v": 0
+    },
+    {
+      "_id": "5f677855cc884900175ce190",
+      "name": "Math-Juan",
+      "duration": "3 months",
+      "__v": 0
+    }
+  ]
+}

@@ -1,0 +1,802 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CqQCGwEAAL3bl5b8NW9Ph8r-UGtQUZ2-p87kijft-Fxq5Bkav3FvmXdzn5wupmeVbqgoAxFFbMI_u-vfOJBfg6jkWcz3VNED8rE22STYFIAEtxFnSTJDuoFAHut930gMDsuCl_LsRF7cvYSTvkAblmalKNMBAkFfgDIz-xkINY7CxdVuM0L-sOBr8uULByVQNeNRFQ3KFVtpudxEkkdwnewrDlbwnrAwuk2pGhBxFW-mtdyn2UJFrUkBqZjF8u4YGZbulqXqOs_uHFqk0ZdNC3hVYyNI1-1eOLOip-pMJ_nXJbcJGAO5lx9LirJ3DoUMXBsTqDy7Sb4b70pEczLMuUAMaVqn3MWyiiHddeRn-99finXJEbT0aDzmzQ3kAlFsofQuDe8LuxIQWH6TOuNwzx7OWB9teuRb0xoUsLAGmkv5ev_5KTM5L4tg87iYRE4",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.89086749999999,
+          "lng": -77.08506179999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.8921506302915,
+            "lng": -77.0836924697085
+          },
+          "southwest": {
+            "lat": 38.8894526697085,
+            "lng": -77.0863904302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "Strayer University",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117885044989327485572\">Strayer University</a>"
+          ],
+          "photo_reference": "CmRaAAAA8DJu400NwJ5sp74XRSC7VerjV97nEksOSKUlQjZ0eZ1UMYpKLwBzwN9_pvDTKP9mYLwjYsBszhCTmb1uKC3kwije5ykypuQKwy3lx_rcwKzYW5Lm0tSkzfGnhXyg9SREEhCLe4niifjzGnvUtp5--ShsGhQB5D_w1dsHHpJY2r3XjfcVvVOGUw",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJXbk6Aoq2t4kR2keJ_Pl9D9w",
+      "plus_code": {
+        "compound_code": "VWR7+8X Arlington, VA, USA",
+        "global_code": "87C4VWR7+8X"
+      },
+      "rating": 4,
+      "reference": "ChIJXbk6Aoq2t4kR2keJ_Pl9D9w",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "university",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "2121 15th Street North, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.8922579,
+          "lng": -77.08674959999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.8934635802915,
+            "lng": -77.08534611970849
+          },
+          "southwest": {
+            "lat": 38.8907656197085,
+            "lng": -77.0880440802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "Key Elementary School",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108669926473549395464\">Scott</a>"
+          ],
+          "photo_reference": "CmRaAAAAtzm7IkZdGi5-Wjj06rTdXINm3-XGnbVSz3_oY2xFwFxgtASmS522BMK-xFjg_jQQkvRtM43OWMiyAc6P_PvxA37ahxr5u2MbqoRqEG8mwVDhb4rvP98HmJIMOnz42se7EhA770tBVw2OeFQq5duEmG4eGhSpzVwwVCChJRmlIogHaT_i3zKuTw",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJ0dXJa2K2t4kR87L69jkfCso",
+      "plus_code": {
+        "compound_code": "VWR7+W8 Arlington, VA, USA",
+        "global_code": "87C4VWR7+W8"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ0dXJa2K2t4kR87L69jkfCso",
+      "scope": "GOOGLE",
+      "types": [
+        "primary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "2300 Key Boulevard, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.8944649,
+          "lng": -77.0777518
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.8956956802915,
+            "lng": -77.07636041970849
+          },
+          "southwest": {
+            "lat": 38.8929977197085,
+            "lng": -77.0790583802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "H-B Woodlawn Secondary Program",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110767845548050372106\">Gary Lin</a>"
+          ],
+          "photo_reference": "CmRaAAAABI6c0MEIKCp2RT-ROTv7rUz2MOHzABVvfP1fy5a2Y9u7L7bINA3R3PVReW6nwoSelKI9-h9L1bpLoHAcPKQJUcVwB2-eS2-VJ-R6Kw2NonG7sIxMXKd11dVCkw5jZXF_EhBeBYfinBsLHOUzrPXJZT4RGhRyO7burqKQB2rRWSb56jcSHm3vOw",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJo95Ym9G1t4kRV6NxcnoppGo",
+      "plus_code": {
+        "compound_code": "VWVC+QV Arlington, VA, USA",
+        "global_code": "87C4VWVC+QV"
+      },
+      "rating": 4.8,
+      "reference": "ChIJo95Ym9G1t4kRV6NxcnoppGo",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "secondary_school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "1601 N, Wilson Boulevard, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.8890669,
+          "lng": -77.09280649999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.8903260302915,
+            "lng": -77.09140301970848
+          },
+          "southwest": {
+            "lat": 38.8876280697085,
+            "lng": -77.0941009802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "New Directions Program",
+      "place_id": "ChIJ7ak5T4a2t4kReQBigXa4Fbg",
+      "plus_code": {
+        "compound_code": "VWQ4+JV Arlington, VA, USA",
+        "global_code": "87C4VWQ4+JV"
+      },
+      "rating": 3.7,
+      "reference": "ChIJ7ak5T4a2t4kReQBigXa4Fbg",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "2847 Wilson Boulevard, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.884916,
+          "lng": -77.1002819
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.8861757302915,
+            "lng": -77.09886896970849
+          },
+          "southwest": {
+            "lat": 38.8834777697085,
+            "lng": -77.1015669302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "Antonin Scalia Law School",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100705939424535334802\">L L</a>"
+          ],
+          "photo_reference": "CmRaAAAAHA0FH32E_ODEWve_KkbjCn78IGRNeCSN5Nt552a8nURgaH5h6igZN1YxuOfTuon0f98xCghI50G6-tZ1M1yw21WyK_WomS3uOdOOEoDnf2Eje9DQaymtPgaz8hsrPDvMEhCzbUaT1kaLPVAcoigadX-aGhR7mj2K6jAw7ffX-nHtmRTxk1QH9Q",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJe-_Uo4K2t4kRu5sgU4nEl_g",
+      "plus_code": {
+        "compound_code": "VVMX+XV Arlington, VA, USA",
+        "global_code": "87C4VVMX+XV"
+      },
+      "rating": 4.5,
+      "reference": "ChIJe-_Uo4K2t4kRu5sgU4nEl_g",
+      "scope": "GOOGLE",
+      "types": [
+        "university",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 20,
+      "vicinity": "George Mason University, 3301, Fairfax Drive, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.888261,
+          "lng": -77.09458409999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.88948553029149,
+            "lng": -77.0930744197085
+          },
+          "southwest": {
+            "lat": 38.8867875697085,
+            "lng": -77.09577238029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "Arlington Community High School",
+      "place_id": "ChIJYS87f7y2t4kR6TUs4lvRs_M",
+      "plus_code": {
+        "compound_code": "VWQ4+85 Arlington, VA, USA",
+        "global_code": "87C4VWQ4+85"
+      },
+      "reference": "ChIJYS87f7y2t4kR6TUs4lvRs_M",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "800 S Walter Reed Dr, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.8952432,
+          "lng": -77.0754091
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.8964924802915,
+            "lng": -77.0739800197085
+          },
+          "southwest": {
+            "lat": 38.8937945197085,
+            "lng": -77.07667798029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "National Board-Pro Teaching",
+      "place_id": "ChIJ99YonF62t4kRkdKCa1vzQJQ",
+      "plus_code": {
+        "compound_code": "VWWF+3R Arlington, VA, USA",
+        "global_code": "87C4VWWF+3R"
+      },
+      "reference": "ChIJ99YonF62t4kRkdKCa1vzQJQ",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1525 Wilson Boulevard #700, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.89293139999999,
+          "lng": -77.08637569999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.89429113029149,
+            "lng": -77.08487451970849
+          },
+          "southwest": {
+            "lat": 38.89159316970849,
+            "lng": -77.0875724802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "Key School Playground",
+      "place_id": "ChIJs5HqPmK2t4kR5aJCd0Vrqgo",
+      "plus_code": {
+        "compound_code": "VWV7+5C Arlington, VA, USA",
+        "global_code": "87C4VWV7+5C"
+      },
+      "rating": 5,
+      "reference": "ChIJs5HqPmK2t4kR5aJCd0Vrqgo",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "North Veitch Street, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.8849379,
+          "lng": -77.0978372
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.8863438802915,
+            "lng": -77.0965809697085
+          },
+          "southwest": {
+            "lat": 38.8836459197085,
+            "lng": -77.09927893029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "Doonya Arlington,VA",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJnzYGdoO2t4kRDYCdZ9VN7fk",
+      "plus_code": {
+        "compound_code": "VWM2+XV Arlington, VA, USA",
+        "global_code": "87C4VWM2+XV"
+      },
+      "reference": "ChIJnzYGdoO2t4kRDYCdZ9VN7fk",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3260 Wilson Boulevard, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.89359849999999,
+          "lng": -77.0699826
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.8947850802915,
+            "lng": -77.0685855697085
+          },
+          "southwest": {
+            "lat": 38.8920871197085,
+            "lng": -77.07128353029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "MOECA Prep",
+      "place_id": "ChIJqbffllm2t4kRYsDCEiTclrI",
+      "plus_code": {
+        "compound_code": "VWVJ+C2 Arlington, VA, USA",
+        "global_code": "87C4VWVJ+C2"
+      },
+      "reference": "ChIJqbffllm2t4kRYsDCEiTclrI",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1121 Arlington Boulevard l3, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.88314030000001,
+          "lng": -77.0872208
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.8844070302915,
+            "lng": -77.08586771970849
+          },
+          "southwest": {
+            "lat": 38.88170906970851,
+            "lng": -77.0885656802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "Blue Bird Day School",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1872,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103525171557026789134\">Catherine Pierce</a>"
+          ],
+          "photo_reference": "CmRZAAAAgtbnV36u0IL0x9jRchmWh8BNuGL92KCEd_RYZ0D-sYS8DL_mTs8IoQd5-tXwWFoYFsFy19LIOi47Spt9xv4uJpeon6IRwTo7aVywwUq05fVf4Q6To-tIjz0gTOt5XwJeEhBPbOX8q7hvdBxTyxBwnfC6GhRQu5XjG4WMu1tWv4sjL1fvW3-Q-A",
+          "width": 3328
+        }
+      ],
+      "place_id": "ChIJv2U-Q462t4kRATTMfoMeNok",
+      "plus_code": {
+        "compound_code": "VWM7+74 Arlington, VA, USA",
+        "global_code": "87C4VWM7+74"
+      },
+      "rating": 5,
+      "reference": "ChIJv2U-Q462t4kRATTMfoMeNok",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "2401 9th Street North, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.8918341,
+          "lng": -77.08540409999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.89328828029149,
+            "lng": -77.0838405697085
+          },
+          "southwest": {
+            "lat": 38.89059031970849,
+            "lng": -77.08653853029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "name": "Organization For Autism Research",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJfxiq9Yq2t4kRXDzC5LveURE",
+      "plus_code": {
+        "compound_code": "VWR7+PR Arlington, VA, USA",
+        "global_code": "87C4VWR7+PR"
+      },
+      "rating": 3,
+      "reference": "ChIJfxiq9Yq2t4kRXDzC5LveURE",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "2111 Wilson Boulevard Suite 401, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.8899206,
+          "lng": -77.08241579999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.89115933029149,
+            "lng": -77.08104991970849
+          },
+          "southwest": {
+            "lat": 38.88846136970849,
+            "lng": -77.0837478802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "Emerging Scholars",
+      "place_id": "ChIJhSDsYYq2t4kRFohDLYJjrGg",
+      "plus_code": {
+        "compound_code": "VWQ9+X2 Arlington, VA, USA",
+        "global_code": "87C4VWQ9+X2"
+      },
+      "reference": "ChIJhSDsYYq2t4kRFohDLYJjrGg",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2009 14th Street North, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.8942509,
+          "lng": -77.0759161
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.8957364302915,
+            "lng": -77.07452741970849
+          },
+          "southwest": {
+            "lat": 38.8930384697085,
+            "lng": -77.07722538029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "Argosy",
+      "place_id": "ChIJq8-EjV62t4kRDX96JqhgIGQ",
+      "plus_code": {
+        "compound_code": "VWVF+PJ Arlington, VA, USA",
+        "global_code": "87C4VWVF+PJ"
+      },
+      "reference": "ChIJq8-EjV62t4kRDX96JqhgIGQ",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1550 Wilson Boulevard, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.89520160000001,
+          "lng": -77.0742466
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.8965174302915,
+            "lng": -77.07271016970849
+          },
+          "southwest": {
+            "lat": 38.8938194697085,
+            "lng": -77.07540813029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "DLI",
+      "place_id": "ChIJt81iAly2t4kRoQAQ6d7g7Ls",
+      "plus_code": {
+        "compound_code": "VWWG+38 Arlington, VA, USA",
+        "global_code": "87C4VWWG+38"
+      },
+      "reference": "ChIJt81iAly2t4kRoQAQ6d7g7Ls",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1501 Wilson Boulevard #1200, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.8813509,
+          "lng": -77.08481759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.88248653029149,
+            "lng": -77.08349676970847
+          },
+          "southwest": {
+            "lat": 38.8797885697085,
+            "lng": -77.0861947302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "The Merit School of Arlington",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115228803573904011044\">The Merit School of Arlington</a>"
+          ],
+          "photo_reference": "CmRaAAAAKF2UG_Cjo1h1oEIbBDzs4VniGjIl6VtD20svs6ldGM8_Nj5Jyc7ETDnhJf8soL7gHJ50M3GktaoWZV0JfW4K-93MDTyCY5y_kmyQ_6F3nUDrb4vahoJ7oJW78TUNrvKhEhCCpBpZoibjVqh3shyE-VJ5GhRdDBL9a26O4N_pDPsrkcGWd7kQ7g",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJEa3e9o22t4kRRmiCXG90jWc",
+      "plus_code": {
+        "compound_code": "VWJ8+G3 Arlington, VA, USA",
+        "global_code": "87C4VWJ8+G3"
+      },
+      "rating": 3.7,
+      "reference": "ChIJEa3e9o22t4kRRmiCXG90jWc",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "2201 North Pershing Drive, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.894444,
+          "lng": -77.0728227
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.8959422302915,
+            "lng": -77.07139501970849
+          },
+          "southwest": {
+            "lat": 38.8932442697085,
+            "lng": -77.07409298029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "Bright Horizons at Rosslyn",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 450,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103010181120725066352\">Bright Horizons at Rosslyn</a>"
+          ],
+          "photo_reference": "CmRaAAAA30ypZjpbAZXZ3moNynVoWHAFeYe5Hn3s0xoJf5u6ZhHDmnOTBZ5va3bGlXmguIPW-ujG6cdmrUKuf4hlfz2jEdF36RznVThdxnDs8O1M6sXUErnaBKbK3Fe_72iV2sQKEhDwNb-QrKncNA4yayDvtaeZGhTRxiiwx0lwdQZyq0TKPNDn9_sh2g",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJGefAXlm2t4kRUNcow3tzY4s",
+      "plus_code": {
+        "compound_code": "VWVG+QV Arlington, VA, USA",
+        "global_code": "87C4VWVG+QV"
+      },
+      "rating": 4.5,
+      "reference": "ChIJGefAXlm2t4kRUNcow3tzY4s",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "1300 Wilson Boulevard, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.88272409999999,
+          "lng": -77.0937271
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.88407378029149,
+            "lng": -77.09226521970848
+          },
+          "southwest": {
+            "lat": 38.8813758197085,
+            "lng": -77.09496318029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "WyzAnt, Inc",
+      "place_id": "ChIJdRRZJoW2t4kRoH4SBpXjq8k",
+      "plus_code": {
+        "compound_code": "VWM4+3G Arlington, VA, USA",
+        "global_code": "87C4VWM4+3G"
+      },
+      "reference": "ChIJdRRZJoW2t4kRoH4SBpXjq8k",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "822 North Garfield Street, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.891944,
+          "lng": -77.07021349999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.8933834802915,
+            "lng": -77.0688513697085
+          },
+          "southwest": {
+            "lat": 38.8906855197085,
+            "lng": -77.0715493302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "Mantle-Elijah Christian",
+      "place_id": "ChIJ9fn6OVi2t4kROd5y90GWcJI",
+      "plus_code": {
+        "compound_code": "VWRH+QW Arlington, VA, USA",
+        "global_code": "87C4VWRH+QW"
+      },
+      "reference": "ChIJ9fn6OVi2t4kROd5y90GWcJI",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1121 Arlington Boulevard, Arlington"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 38.8935773,
+          "lng": -77.0699786
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 38.8949129802915,
+            "lng": -77.0687991697085
+          },
+          "southwest": {
+            "lat": 38.8922150197085,
+            "lng": -77.0714971302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "name": "Rosslyn Prep Academy",
+      "place_id": "ChIJmxY6c3gmd0ARl7lAUKHYcOE",
+      "plus_code": {
+        "compound_code": "VWVJ+C2 Arlington, VA, USA",
+        "global_code": "87C4VWVJ+C2"
+      },
+      "reference": "ChIJmxY6c3gmd0ARl7lAUKHYcOE",
+      "scope": "GOOGLE",
+      "types": [
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1121 Arlington Boulevard l3, Arlington"
+    }
+  ],
+  "status": "OK"
+}
