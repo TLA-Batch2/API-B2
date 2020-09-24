@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -93,26 +96,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="696" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600907984674" />
-    <state width="1878" height="159" key="GridCell.Tab.0.bottom" timestamp="1600909350473">
+    <state width="1878" height="206" key="GridCell.Tab.0.bottom" timestamp="1600909640981">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600826037707" />
-    <state width="1878" height="159" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600909350473" />
-    <state width="1878" height="159" key="GridCell.Tab.0.center" timestamp="1600909350469">
+    <state width="1878" height="206" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600909640981" />
+    <state width="1878" height="206" key="GridCell.Tab.0.center" timestamp="1600909640978">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="267" key="GridCell.Tab.0.center/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600826037704" />
-    <state width="1878" height="159" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600909350469" />
-    <state width="1878" height="159" key="GridCell.Tab.0.left" timestamp="1600909350466">
+    <state width="1878" height="206" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600909640978" />
+    <state width="1878" height="206" key="GridCell.Tab.0.left" timestamp="1600909640977">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="267" key="GridCell.Tab.0.left/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600826037701" />
-    <state width="1878" height="159" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600909350466" />
-    <state width="1878" height="159" key="GridCell.Tab.0.right" timestamp="1600909350470">
+    <state width="1878" height="206" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600909640977" />
+    <state width="1878" height="206" key="GridCell.Tab.0.right" timestamp="1600909640979">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="267" key="GridCell.Tab.0.right/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600826037705" />
-    <state width="1878" height="159" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600909350470" />
+    <state width="1878" height="206" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600909640979" />
     <state x="617" y="163" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600907340353">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
