@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c58d828-9081-49ad-91b9-4ad63eab9d1f" name="Default Changelist" comment="" />
+    <list default="true" id="8c58d828-9081-49ad-91b9-4ad63eab9d1f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +28,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1hfB00gLoB7d7FefbOSqNdR9CLt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,39 +39,151 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JsonFile">
-    <configuration name="JsonArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JsonArray" />
+  <component name="RunManager" selected="TestNG.GETRequests.test02">
+    <configuration name="GETRequests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="API" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GETRequests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JsonFile" />
+    <configuration name="GETRequests.test01 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="API" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GETRequests" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonObjectExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JsonObjectExample" />
+    <configuration name="GETRequests.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="API" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GETRequests" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GETRequests.test011" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GETRequests" />
+      <option name="METHOD_NAME" value="test011" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GETRequests.test02" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GETRequests" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.GETRequests.test01" />
+      <item itemvalue="TestNG.GETRequests.test01 (1)" />
+      <item itemvalue="TestNG.GETRequests" />
+      <item itemvalue="TestNG.GETRequests.test011" />
+      <item itemvalue="TestNG.GETRequests.test02" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JsonFile" />
-        <item itemvalue="Application.JsonArray" />
-        <item itemvalue="Application.JsonObjectExample" />
+        <item itemvalue="TestNG.GETRequests.test02" />
+        <item itemvalue="TestNG.GETRequests.test011" />
+        <item itemvalue="TestNG.GETRequests" />
+        <item itemvalue="TestNG.GETRequests.test01 (1)" />
+        <item itemvalue="TestNG.GETRequests.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -92,30 +210,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="660" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600911902073">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="660" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600911902073" />
     <state x="696" y="350" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600907984674">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="696" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600907984674" />
-    <state width="1878" height="206" key="GridCell.Tab.0.bottom" timestamp="1600909640981">
+    <state width="1878" height="343" key="GridCell.Tab.0.bottom" timestamp="1600912925336">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600826037707" />
-    <state width="1878" height="206" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600909640981" />
-    <state width="1878" height="206" key="GridCell.Tab.0.center" timestamp="1600909640978">
+    <state width="1878" height="343" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600912925336" />
+    <state width="1878" height="343" key="GridCell.Tab.0.center" timestamp="1600912925333">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="267" key="GridCell.Tab.0.center/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600826037704" />
-    <state width="1878" height="206" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600909640978" />
-    <state width="1878" height="206" key="GridCell.Tab.0.left" timestamp="1600909640977">
+    <state width="1878" height="343" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600912925333" />
+    <state width="1878" height="343" key="GridCell.Tab.0.left" timestamp="1600912925330">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="267" key="GridCell.Tab.0.left/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600826037701" />
-    <state width="1878" height="206" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600909640977" />
-    <state width="1878" height="206" key="GridCell.Tab.0.right" timestamp="1600909640979">
+    <state width="1878" height="343" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600912925330" />
+    <state width="1878" height="343" key="GridCell.Tab.0.right" timestamp="1600912925335">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="267" key="GridCell.Tab.0.right/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600826037705" />
-    <state width="1878" height="206" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600909640979" />
+    <state width="1878" height="343" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600912925335" />
+    <state x="448" y="123" key="SettingsEditor" timestamp="1600911002470">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="123" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600911002470" />
     <state x="617" y="163" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600907340353">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
