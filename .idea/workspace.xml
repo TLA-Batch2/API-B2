@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8c58d828-9081-49ad-91b9-4ad63eab9d1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,70 +48,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.POSTRequests.test070">
-    <configuration name="POSTRequests.test02" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="API" />
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="POSTRequests" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="POSTRequests.test03" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="API" />
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="POSTRequests" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="POSTRequests.test04" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="API" />
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="POSTRequests" />
-      <option name="METHOD_NAME" value="test04" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.PUTRequests.test03">
     <configuration name="POSTRequests.test06" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="API" />
       <option name="SUITE_NAME" value="" />
@@ -155,6 +91,69 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PUTRequests.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PUTRequests" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PUTRequests.test02" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PUTRequests" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PUTRequests.test03" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PUTRequests" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="SUITE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="" />
@@ -174,19 +173,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.POSTRequests.test02" />
-      <item itemvalue="TestNG.POSTRequests.test03" />
-      <item itemvalue="TestNG.POSTRequests.test04" />
       <item itemvalue="TestNG.POSTRequests.test06" />
       <item itemvalue="TestNG.POSTRequests.test070" />
+      <item itemvalue="TestNG.PUTRequests.test01" />
+      <item itemvalue="TestNG.PUTRequests.test02" />
+      <item itemvalue="TestNG.PUTRequests.test03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PUTRequests.test03" />
+        <item itemvalue="TestNG.PUTRequests.test02" />
+        <item itemvalue="TestNG.PUTRequests.test01" />
         <item itemvalue="TestNG.POSTRequests.test070" />
         <item itemvalue="TestNG.POSTRequests.test06" />
-        <item itemvalue="TestNG.POSTRequests.test04" />
-        <item itemvalue="TestNG.POSTRequests.test03" />
-        <item itemvalue="TestNG.POSTRequests.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -221,26 +220,30 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="696" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600907984674" />
-    <state width="1878" height="222" key="GridCell.Tab.0.bottom" timestamp="1601135291338">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1638" height="174" key="GridCell.Tab.0.bottom" timestamp="1601143227148">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="174" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1601143227148" />
     <state width="1878" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600826037707" />
-    <state width="1878" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601135291338" />
-    <state width="1878" height="222" key="GridCell.Tab.0.center" timestamp="1601135291335">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601136089878" />
+    <state width="1638" height="174" key="GridCell.Tab.0.center" timestamp="1601143227147">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="174" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1601143227147" />
     <state width="1878" height="267" key="GridCell.Tab.0.center/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600826037704" />
-    <state width="1878" height="222" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601135291335" />
-    <state width="1878" height="222" key="GridCell.Tab.0.left" timestamp="1601135291333">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="280" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601136089876" />
+    <state width="1638" height="174" key="GridCell.Tab.0.left" timestamp="1601143227146">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="174" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1601143227146" />
     <state width="1878" height="267" key="GridCell.Tab.0.left/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600826037701" />
-    <state width="1878" height="222" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601135291333" />
-    <state width="1878" height="222" key="GridCell.Tab.0.right" timestamp="1601135291336">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="280" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601136089875" />
+    <state width="1638" height="174" key="GridCell.Tab.0.right" timestamp="1601143227148">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="174" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1601143227148" />
     <state width="1878" height="267" key="GridCell.Tab.0.right/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600826037705" />
-    <state width="1878" height="222" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601135291336" />
+    <state width="1878" height="280" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601136089877" />
     <state x="448" y="123" key="SettingsEditor" timestamp="1601134662635">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
