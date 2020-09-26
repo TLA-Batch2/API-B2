@@ -2,10 +2,8 @@ import io.restassured.RestAssured;
 import io.restassured.http.*;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
-import org.hamcrest.Matchers;
 import org.json.simple.JSONObject;
 import org.testng.Assert;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import util.JsonUtils;
 
