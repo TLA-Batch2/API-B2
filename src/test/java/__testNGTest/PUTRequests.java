@@ -1,3 +1,4 @@
+package __testNGTest;
 
 import io.restassured.http.*;
 import org.json.simple.JSONObject;

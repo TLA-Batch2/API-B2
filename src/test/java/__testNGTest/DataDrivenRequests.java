@@ -1,3 +1,5 @@
+package __testNGTest;
+
 import io.restassured.RestAssured;
 import io.restassured.http.*;
 import io.restassured.response.Response;
