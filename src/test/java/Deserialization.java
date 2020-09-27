@@ -1,21 +1,11 @@
-import io.restassured.RestAssured;
-import io.restassured.http.*;
-import io.restassured.response.Response;
-import io.restassured.specification.RequestSpecification;
-import org.hamcrest.Matchers;
-import org.json.simple.JSONObject;
-import org.testng.Assert;
-import org.testng.annotations.DataProvider;
-import org.testng.annotations.Test;
-import util.JsonUtils;
 
-import java.util.HashMap;
+import io.restassured.path.json.JsonPath;
+import io.restassured.response.Response;
+import org.testng.annotations.Test;
 import java.util.List;
 import java.util.Map;
 
 import static io.restassured.RestAssured.*;
-
-import static org.hamcrest.Matchers.*;
 
 public class Deserialization {
 
@@ -58,4 +48,45 @@ public class Deserialization {
         ids.forEach(a -> System.out.println(a));
     }
 
+    //NOTE: Parse using .jsonPath method
+
+    @Test(description = "static way of getting data out of json object")
+    void test04(){
+        String companyName = given()
+                .get("https://jsonplaceholder.typicode.com/users/1")
+                .jsonPath()
+                .get("company.name");
+
+        System.out.println(companyName);
+    }
+
+    @Test(description = "using objects Response and JsonPath")
+    void test05(){
+        Response response = given()
+                .get("https://jsonplaceholder.typicode.com/users/1");
+        JsonPath jsonPath = response.jsonPath();
+
+        System.out.println(jsonPath.getString("address.geo.lat"));
+    }
+
+    @Test
+    void test06(){
+        List<String> companyNames = given()
+                .get("https://jsonplaceholder.typicode.com/users")
+                .jsonPath()
+                .getList("company.name");
+
+        companyNames.forEach( a -> System.out.println(a));
+    }
+
+    @Test
+    void test07(){
+        Map<String, String> address = given()
+                .get("https://jsonplaceholder.typicode.com/users/1")
+                .jsonPath()
+                .getMap("address");
+
+        System.out.println(address.get("street"));
+        System.out.println(address.get("zipcode"));
+    }
 }

@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8c58d828-9081-49ad-91b9-4ad63eab9d1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/POSTRequests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/POSTRequests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PUTRequests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PUTRequests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Deserialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Deserialization.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +46,64 @@
     <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pojo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Deserialization.test03">
-    <configuration name="DataDrivenRequests.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.SchemaValidation.test02">
+    <configuration name="Deserialization_POJO.test05" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="API" />
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DataDrivenRequests" />
+      <option name="MAIN_CLASS_NAME" value="Deserialization_POJO" />
+      <option name="METHOD_NAME" value="test05" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Deserialization_POJO.test06" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Deserialization_POJO" />
+      <option name="METHOD_NAME" value="test06" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchemaValidation.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SchemaValidation" />
       <option name="METHOD_NAME" value="test01" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -72,11 +120,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataDrivenRequests.test02" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SchemaValidation.test02" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="API" />
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DataDrivenRequests" />
+      <option name="MAIN_CLASS_NAME" value="SchemaValidation" />
       <option name="METHOD_NAME" value="test02" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -93,54 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Deserialization.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Serialization.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="API" />
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Deserialization" />
+      <option name="MAIN_CLASS_NAME" value="Serialization" />
       <option name="METHOD_NAME" value="test01" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Deserialization.test02" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="API" />
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Deserialization" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Deserialization.test03" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="API" />
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Deserialization" />
-      <option name="METHOD_NAME" value="test03" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
@@ -175,19 +181,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.DataDrivenRequests.test01" />
-      <item itemvalue="TestNG.DataDrivenRequests.test02" />
-      <item itemvalue="TestNG.Deserialization.test01" />
-      <item itemvalue="TestNG.Deserialization.test02" />
-      <item itemvalue="TestNG.Deserialization.test03" />
+      <item itemvalue="TestNG.Deserialization_POJO.test05" />
+      <item itemvalue="TestNG.Deserialization_POJO.test06" />
+      <item itemvalue="TestNG.Serialization.test01" />
+      <item itemvalue="TestNG.SchemaValidation.test01" />
+      <item itemvalue="TestNG.SchemaValidation.test02" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Deserialization.test03" />
-        <item itemvalue="TestNG.Deserialization.test02" />
-        <item itemvalue="TestNG.Deserialization.test01" />
-        <item itemvalue="TestNG.DataDrivenRequests.test02" />
-        <item itemvalue="TestNG.DataDrivenRequests.test01" />
+        <item itemvalue="TestNG.SchemaValidation.test02" />
+        <item itemvalue="TestNG.SchemaValidation.test01" />
+        <item itemvalue="TestNG.Serialization.test01" />
+        <item itemvalue="TestNG.Deserialization_POJO.test06" />
+        <item itemvalue="TestNG.Deserialization_POJO.test05" />
       </list>
     </recent_temporary>
   </component>
@@ -222,30 +228,38 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="696" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600907984674" />
-    <state width="1638" height="359" key="GridCell.Tab.0.bottom" timestamp="1601146636955">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="773" y="264" key="#com.intellij.ide.util.MemberChooser" timestamp="1601221412310">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1638" height="359" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1601146636955" />
+    <state x="773" y="264" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601221412310" />
+    <state x="746" y="405" width="427" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601221290230">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="746" y="405" width="427" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601221290230" />
+    <state width="1878" height="161" key="GridCell.Tab.0.bottom" timestamp="1601223015539">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1638" height="238" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1601146809331" />
     <state width="1878" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600826037707" />
-    <state width="1878" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601136089878" />
-    <state width="1638" height="359" key="GridCell.Tab.0.center" timestamp="1601146636954">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1878" height="161" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601223015539" />
+    <state width="1878" height="161" key="GridCell.Tab.0.center" timestamp="1601223015537">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1638" height="359" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1601146636954" />
+    <state width="1638" height="238" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1601146809330" />
     <state width="1878" height="267" key="GridCell.Tab.0.center/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600826037704" />
-    <state width="1878" height="280" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601136089876" />
-    <state width="1638" height="359" key="GridCell.Tab.0.left" timestamp="1601146636953">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1878" height="161" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601223015537" />
+    <state width="1878" height="161" key="GridCell.Tab.0.left" timestamp="1601223015535">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1638" height="359" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1601146636953" />
+    <state width="1638" height="238" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1601146809329" />
     <state width="1878" height="267" key="GridCell.Tab.0.left/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600826037701" />
-    <state width="1878" height="280" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601136089875" />
-    <state width="1638" height="359" key="GridCell.Tab.0.right" timestamp="1601146636954">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1878" height="161" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601223015535" />
+    <state width="1878" height="161" key="GridCell.Tab.0.right" timestamp="1601223015538">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1638" height="359" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1601146636954" />
+    <state width="1638" height="238" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1601146809330" />
     <state width="1878" height="267" key="GridCell.Tab.0.right/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1600826037705" />
-    <state width="1878" height="280" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601136089877" />
+    <state width="1878" height="161" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1601223015538" />
     <state x="448" y="123" key="SettingsEditor" timestamp="1601134662635">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

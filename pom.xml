@@ -46,10 +46,15 @@
             <version>${hamcrest.version}</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
+               <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
             <version>${gson.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>json-schema-validator</artifactId>
+            <version>4.3.1</version>
         </dependency>
 
     </dependencies>
